@@ -3,4 +3,4 @@
 ```
 Per lanciare questo software, bisogno ad aprire qt creator, piuo, entrare su progetto si chiama guiCustom
 ```
-![Mission Planner](demo_1.png)
+<img src="demo_1.png" width="500"/> <img src="demo_2.png" width="500"/>
