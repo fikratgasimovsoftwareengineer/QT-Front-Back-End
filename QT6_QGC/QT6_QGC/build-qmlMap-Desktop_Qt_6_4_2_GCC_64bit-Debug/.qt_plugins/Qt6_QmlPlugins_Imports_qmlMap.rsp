@@ -1,0 +1,9 @@
+-rootPath
+/home/eurolink/QT6_QGC/QT6_QGC/qmlMap
+-cmake-output
+-output-file
+/home/eurolink/QT6_QGC/QT6_QGC/build-qmlMap-Desktop_Qt_6_4_2_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_qmlMap.cmake
+-importPath
+/home/eurolink/QT6_QGC/QT6_QGC/build-qmlMap-Desktop_Qt_6_4_2_GCC_64bit-Debug
+-importPath
+/home/eurolink/Qt/6.4.2/gcc_64/./qml

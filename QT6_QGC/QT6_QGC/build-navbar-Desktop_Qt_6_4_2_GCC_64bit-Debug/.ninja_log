@@ -1,0 +1,20 @@
+# ninja log v5
+101	1468	1678443870155130801	CMakeFiles/navbar.dir/navbar_autogen/mocs_compilation.cpp.o	581829429547d6e8
+102	118	1678379131756981039	/home/eurolink/QT6_QGC/QT6_QGC/build-navbar-Desktop_Qt_6_4_2_GCC_64bit-Debug/navbar_autogen/EWIEGA46WW/qrc_navbar.cpp	fa45a5daa1c3d0c
+7	1303	1678443964973590691	CMakeFiles/navbar.dir/navbar.cpp.o	b71312c1a95c28f0
+1303	1572	1678443965241586373	navbar	cfde24cd9ba129a6
+0	6	1678443963681611503	navbar_autogen/mocs_compilation.cpp	54aea20442c6dcb5
+119	579	1678379132216969540	CMakeFiles/navbar.dir/navbar_autogen/EWIEGA46WW/qrc_navbar.cpp.o	1bbf6abc021c30e8
+0	6	1678443963681611503	/home/eurolink/QT6_QGC/QT6_QGC/build-navbar-Desktop_Qt_6_4_2_GCC_64bit-Debug/navbar_autogen/timestamp	54aea20442c6dcb5
+0	6	1678443963681611503	navbar_autogen/timestamp	54aea20442c6dcb5
+101	1414	1678443870103131653	CMakeFiles/navbar.dir/main.cpp.o	34dd7cc27916318d
+0	6	1678443963681611503	/home/eurolink/QT6_QGC/QT6_QGC/build-navbar-Desktop_Qt_6_4_2_GCC_64bit-Debug/navbar_autogen/mocs_compilation.cpp	54aea20442c6dcb5
+102	118	1678379131756981039	navbar_autogen/EWIEGA46WW/qrc_navbar.cpp	fa45a5daa1c3d0c
+1	102	1678446045210247391	navbar_autogen/timestamp	54aea20442c6dcb5
+1	102	1678446045210247391	navbar_autogen/mocs_compilation.cpp	54aea20442c6dcb5
+1	102	1678446045210247391	/home/eurolink/QT6_QGC/QT6_QGC/build-navbar-Desktop_Qt_6_4_2_GCC_64bit-Debug/navbar_autogen/timestamp	54aea20442c6dcb5
+1	102	1678446045210247391	/home/eurolink/QT6_QGC/QT6_QGC/build-navbar-Desktop_Qt_6_4_2_GCC_64bit-Debug/navbar_autogen/mocs_compilation.cpp	54aea20442c6dcb5
+102	1356	1678446046466228835	CMakeFiles/navbar.dir/navbar.cpp.o	b71312c1a95c28f0
+102	1388	1678446046498228361	CMakeFiles/navbar.dir/main.cpp.o	34dd7cc27916318d
+102	1417	1678446046526227948	CMakeFiles/navbar.dir/navbar_autogen/mocs_compilation.cpp.o	581829429547d6e8
+1417	1670	1678446046778224225	navbar	cfde24cd9ba129a6

@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-QGCDRONE-Desktop_Qt_6_4_2_GCC_64bit-Debug/QGCDRONE_autogen",
+	"CMAKE_BINARY_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-QGCDRONE-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-QGCDRONE-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/QGCDRONE",
+	"CMAKE_SOURCE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/QGCDRONE",
+	"INCLUDE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-QGCDRONE-Desktop_Qt_6_4_2_GCC_64bit-Debug/QGCDRONE_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/eurolink/QT6_QGC/QT6_QGC/QGCDRONE/plan.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/QGCDRONE/simulation.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/QGCDRONE/help.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/QGCDRONE/setup.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/QGCDRONE/gps.jpg",
+		"/home/eurolink/QT6_QGC/QT6_QGC/QGCDRONE/Data.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/QGCDRONE/config.png"
+	],
+	"LOCK_FILE" : "/home/eurolink/QT6_QGC/QT6_QGC/build-QGCDRONE-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/QGCDRONE_autogen.dir/AutoRcc_navbar_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "navbar" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_navbar.cpp",
+	"RCC_EXECUTABLE" : "/home/eurolink/Qt/6.4.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/eurolink/QT6_QGC/QT6_QGC/build-QGCDRONE-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/QGCDRONE_autogen.dir/AutoRcc_navbar_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/eurolink/QT6_QGC/QT6_QGC/QGCDRONE/navbar.qrc",
+	"VERBOSITY" : 0
+}

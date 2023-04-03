@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/:">
+        <file>home.png</file>
+        <file>account.png</file>
+        <file>myaccount.png</file>
+        <file>reg.png</file>
+        <file>drone.jpg</file>
+        <file>drone2.png</file>
+        <file>drone 6.jpg</file>
+        <file>drone_3.png</file>
+        <file>quadrator.png</file>
+        <file>copter.png</file>
+        <file>drone_icon.png</file>
+        <file>account 1.png</file>
+        <file>gamepad.png</file>
+        <file>hexacopter.png</file>
+        <file>tricopter_specific.png</file>
+        <file>plane.png</file>
+        <file>aliengo.png</file>
+        <file>ground vehicle.jpg</file>
+        <file>cinqoli.jpg</file>
+        <file>beluga.png</file>
+        <file>drone_question.jpg</file>
+        <file>qgc.png</file>
+        <file>../../../map/map.html</file>
+    </qresource>
+</RCC>

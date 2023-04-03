@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-64e843cd11d630cbe4f7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "home",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "home::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-home-Debug-1f53f13f22f79d865aef.json",
+					"name" : "home",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "home_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-home_autogen-Debug-be00977b52b239063936.json",
+					"name" : "home_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "home_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-home_autogen_timestamp_deps-Debug-62d0f973f5d4be6c7de1.json",
+					"name" : "home_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/eurolink/QT6_QGC/QT6_QGC/build-home-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+		"source" : "/home/eurolink/QT6_QGC/QT6_QGC/home"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

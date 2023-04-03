@@ -1,0 +1,25 @@
+# ninja log v5
+116	1330	1678357612873654135	CMakeFiles/buttons_design.dir/buttons_design_autogen/mocs_compilation.cpp.o	9b2eaf1bb79b3e74
+7	1227	1678357868227183855	CMakeFiles/buttons_design.dir/buttons.cpp.o	aaf62545f6a4590e
+0	119	1678210098004039093	build.ninja	fef8936e0be4f74c
+11	32	1678210189989721042	CMakeFiles/buttons_design.dir/buttons_design_autogen/EWIEGA46WW/qrc_icon.cpp.o	58a2d41599c25e25
+1	7	1678357867011219441	buttons_design_autogen/mocs_compilation.cpp	b15edaee3cf966d0
+1	7	1678357867011219441	/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/buttons_design_autogen/timestamp	b15edaee3cf966d0
+7	11	1678210189969721546	/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/buttons_design_autogen/EWIEGA46WW/qrc_icon.cpp	de9d7e56d8231d8d
+7	11	1678210189969721546	buttons_design_autogen/EWIEGA46WW/qrc_icon.cpp	de9d7e56d8231d8d
+116	1370	1678357612913653179	CMakeFiles/buttons_design.dir/main.cpp.o	dbd21a52754e8b2f
+1	7	1678357867011219441	buttons_design_autogen/timestamp	b15edaee3cf966d0
+1227	1494	1678357868495176013	buttons_design	c5e4be0e09f0dae
+1	7	1678357867011219441	/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/buttons_design_autogen/mocs_compilation.cpp	b15edaee3cf966d0
+1	8	1678357894762410535	buttons_design_autogen/timestamp	b15edaee3cf966d0
+1	8	1678357894762410535	buttons_design_autogen/mocs_compilation.cpp	b15edaee3cf966d0
+1	8	1678357894762410535	/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/buttons_design_autogen/timestamp	b15edaee3cf966d0
+1	8	1678357894762410535	/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/buttons_design_autogen/mocs_compilation.cpp	b15edaee3cf966d0
+9	1276	1678357896026373853	CMakeFiles/buttons_design.dir/buttons.cpp.o	aaf62545f6a4590e
+1276	1544	1678357896294366078	buttons_design	c5e4be0e09f0dae
+1	7	1678357945796940015	buttons_design_autogen/timestamp	b15edaee3cf966d0
+1	7	1678357945796940015	buttons_design_autogen/mocs_compilation.cpp	b15edaee3cf966d0
+1	7	1678357945796940015	/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/buttons_design_autogen/timestamp	b15edaee3cf966d0
+1	7	1678357945796940015	/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/buttons_design_autogen/mocs_compilation.cpp	b15edaee3cf966d0
+8	1293	1678357947084903175	CMakeFiles/buttons_design.dir/buttons.cpp.o	aaf62545f6a4590e
+1293	1561	1678357947348895626	buttons_design	c5e4be0e09f0dae

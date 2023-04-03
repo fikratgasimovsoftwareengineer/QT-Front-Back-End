@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_6_4_2_GCC_64bit-Debug/guiCustom_autogen",
+	"CMAKE_BINARY_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/guiCustom",
+	"CMAKE_SOURCE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/guiCustom",
+	"INCLUDE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_6_4_2_GCC_64bit-Debug/guiCustom_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/eurolink/QT6_QGC/QT6_QGC/guiCustom/plan.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/guiCustom/left.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/guiCustom/simulation.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/guiCustom/help.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/guiCustom/setup.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/guiCustom/gps.jpg",
+		"/home/eurolink/QT6_QGC/QT6_QGC/guiCustom/Data.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/guiCustom/right.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/guiCustom/config.png"
+	],
+	"LOCK_FILE" : "/home/eurolink/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/guiCustom_autogen.dir/AutoRcc_navbar_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "navbar" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_navbar.cpp",
+	"RCC_EXECUTABLE" : "/home/eurolink/Qt/6.4.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/eurolink/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/guiCustom_autogen.dir/AutoRcc_navbar_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/eurolink/QT6_QGC/QT6_QGC/guiCustom/navbar.qrc",
+	"VERBOSITY" : 0
+}

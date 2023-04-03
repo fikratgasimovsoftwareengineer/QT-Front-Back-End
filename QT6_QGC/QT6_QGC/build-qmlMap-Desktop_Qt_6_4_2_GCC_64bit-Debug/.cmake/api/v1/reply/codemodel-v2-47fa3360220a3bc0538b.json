@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ee1d15d0296a80935d2b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qmlMap",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qmlMap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qmlMap-Debug-759d9ccde49d42a0a9c4.json",
+					"name" : "qmlMap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qmlMap_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qmlMap_autogen-Debug-8cb3c2805735d066ea34.json",
+					"name" : "qmlMap_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qmlMap_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qmlMap_autogen_timestamp_deps-Debug-636b0d8c193e8c93b843.json",
+					"name" : "qmlMap_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qmlMap_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qmlMap_qmlimportscan-Debug-def2f11297e891801a7a.json",
+					"name" : "qmlMap_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/eurolink/QT6_QGC/QT6_QGC/build-qmlMap-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+		"source" : "/home/eurolink/QT6_QGC/QT6_QGC/qmlMap"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

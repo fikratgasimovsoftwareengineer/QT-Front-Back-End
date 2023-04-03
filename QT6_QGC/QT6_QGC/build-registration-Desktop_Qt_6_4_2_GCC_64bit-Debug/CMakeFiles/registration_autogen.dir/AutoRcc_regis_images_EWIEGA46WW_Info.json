@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-registration-Desktop_Qt_6_4_2_GCC_64bit-Debug/registration_autogen",
+	"CMAKE_BINARY_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-registration-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-registration-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/registration",
+	"CMAKE_SOURCE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/registration",
+	"INCLUDE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-registration-Desktop_Qt_6_4_2_GCC_64bit-Debug/registration_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/eurolink/QT6_QGC/QT6_QGC/registration/reg.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/registration/viola.jpg",
+		"/home/eurolink/QT6_QGC/QT6_QGC/registration/drone 6.jpg",
+		"/home/eurolink/QT6_QGC/QT6_QGC/registration/drone_3.png"
+	],
+	"LOCK_FILE" : "/home/eurolink/QT6_QGC/QT6_QGC/build-registration-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/registration_autogen.dir/AutoRcc_regis_images_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "regis_images" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_regis_images.cpp",
+	"RCC_EXECUTABLE" : "/home/eurolink/Qt/6.4.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/eurolink/QT6_QGC/QT6_QGC/build-registration-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/registration_autogen.dir/AutoRcc_regis_images_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/eurolink/QT6_QGC/QT6_QGC/registration/regis_images.qrc",
+	"VERBOSITY" : 0
+}

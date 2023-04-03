@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/buttons_design_autogen",
+	"CMAKE_BINARY_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/buttons_design",
+	"CMAKE_SOURCE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/buttons_design",
+	"INCLUDE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/buttons_design_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/eurolink/QT6_QGC/QT6_QGC/buttons_design/icons8-right-arrow-100.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/buttons_design/style.qss",
+		"/home/eurolink/QT6_QGC/QT6_QGC/buttons_design/icons8-down-arrow-100.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/buttons_design/icons8-up-arrow-100.png",
+		"/home/eurolink/QT6_QGC/QT6_QGC/buttons_design/icons8-left-arrow-100.png"
+	],
+	"LOCK_FILE" : "/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/buttons_design_autogen.dir/AutoRcc_icon_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "icon" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_icon.cpp",
+	"RCC_EXECUTABLE" : "/home/eurolink/Qt/6.4.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/buttons_design_autogen.dir/AutoRcc_icon_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/eurolink/QT6_QGC/QT6_QGC/buttons_design/icon.qrc",
+	"VERBOSITY" : 0
+}

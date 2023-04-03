@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5a837e604330f0032612.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "guiCustom",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "guiCustom::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-guiCustom-Debug-7d6cd8c0fbc095463997.json",
+					"name" : "guiCustom",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "guiCustom_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-guiCustom_autogen-Debug-49556336b52cb49e49c7.json",
+					"name" : "guiCustom_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "guiCustom_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-guiCustom_autogen_timestamp_deps-Debug-a09797012d4a396a3ca1.json",
+					"name" : "guiCustom_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "guiCustom_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-guiCustom_qmlimportscan-Debug-6e40ddf6a57347a1c42e.json",
+					"name" : "guiCustom_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/eurolink/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+		"source" : "/home/eurolink/QT6_QGC/QT6_QGC/guiCustom"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

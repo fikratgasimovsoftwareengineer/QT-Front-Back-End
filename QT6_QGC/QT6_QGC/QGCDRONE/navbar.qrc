@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/:">
+        <file>config.png</file>
+        <file>Data.png</file>
+        <file>gps.jpg</file>
+        <file>help.png</file>
+        <file>plan.png</file>
+        <file>setup.png</file>
+        <file>simulation.png</file>
+    </qresource>
+</RCC>

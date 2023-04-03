@@ -1,0 +1,14 @@
+# ninja log v5
+10	1219	1677836661362869233	CMakeFiles/gstreamer_qgc.dir/gstreamer.cpp.o	6423adf71b3a0f13
+101	1306	1677836596236438269	CMakeFiles/gstreamer_qgc.dir/gstreamer_qgc_autogen/mocs_compilation.cpp.o	88bf6ed392a9f862
+101	1344	1677836596276437305	CMakeFiles/gstreamer_qgc.dir/main.cpp.o	468bed27322bd23d
+1	10	1677836660154898318	gstreamer_qgc_autogen/mocs_compilation.cpp	badd4dce70b48ca7
+1	10	1677836660154898318	/home/eurolink/QT6_QGC/QT6_QGC/build-gstreamer_qgc-Desktop_Qt_6_4_2_GCC_64bit-Debug/gstreamer_qgc_autogen/mocs_compilation.cpp	badd4dce70b48ca7
+1219	1433	1677836661574864128	gstreamer_qgc	dd53299769c3a0bb
+1	10	1677836660154898318	gstreamer_qgc_autogen/timestamp	badd4dce70b48ca7
+1	10	1677836660154898318	/home/eurolink/QT6_QGC/QT6_QGC/build-gstreamer_qgc-Desktop_Qt_6_4_2_GCC_64bit-Debug/gstreamer_qgc_autogen/timestamp	badd4dce70b48ca7
+24	68	1678097193533184117	gstreamer_qgc_autogen/timestamp	badd4dce70b48ca7
+24	68	1678097193533184117	gstreamer_qgc_autogen/mocs_compilation.cpp	badd4dce70b48ca7
+24	68	1678097193533184117	/home/eurolink/QT6_QGC/QT6_QGC/build-gstreamer_qgc-Desktop_Qt_6_4_2_GCC_64bit-Debug/gstreamer_qgc_autogen/timestamp	badd4dce70b48ca7
+24	68	1678097193533184117	/home/eurolink/QT6_QGC/QT6_QGC/build-gstreamer_qgc-Desktop_Qt_6_4_2_GCC_64bit-Debug/gstreamer_qgc_autogen/mocs_compilation.cpp	badd4dce70b48ca7
+71	1506	1678097194969149343	CMakeFiles/gstreamer_qgc.dir/gstreamer.cpp.o	6423adf71b3a0f13

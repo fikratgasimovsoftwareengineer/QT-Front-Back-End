@@ -1,0 +1,14 @@
+# ninja log v5
+107	1408	1678195364528283018	CMakeFiles/test_stream_2.dir/test_stream_2_autogen/mocs_compilation.cpp.o	d1b381a8b9e186cf
+107	1419	1678195364536282814	CMakeFiles/test_stream_2.dir/main.cpp.o	9424718771491ea3
+0	137	1678195374192036982	build.ninja	ade144ea131ca1df
+0	107	1678195363224316218	/home/eurolink/QT6_QGC/QT6_QGC/build-test_stream_2-Desktop_Qt_6_4_2_GCC_64bit-Debug/test_stream_2_autogen/mocs_compilation.cpp	c47e1d9cd0e27da6
+0	107	1678195363224316218	test_stream_2_autogen/mocs_compilation.cpp	c47e1d9cd0e27da6
+107	1436	1678195364556282304	CMakeFiles/test_stream_2.dir/mainwindow.cpp.o	a65dadd1ea23d4dc
+1436	1665	1678195364784276499	test_stream_2	62921a7bd2d7717
+0	107	1678195363224316218	test_stream_2_autogen/timestamp	c47e1d9cd0e27da6
+0	107	1678195363224316218	/home/eurolink/QT6_QGC/QT6_QGC/build-test_stream_2-Desktop_Qt_6_4_2_GCC_64bit-Debug/test_stream_2_autogen/timestamp	c47e1d9cd0e27da6
+1	7	1678195375747997372	test_stream_2_autogen/timestamp	c47e1d9cd0e27da6
+1	7	1678195375747997372	test_stream_2_autogen/mocs_compilation.cpp	c47e1d9cd0e27da6
+1	7	1678195375747997372	/home/eurolink/QT6_QGC/QT6_QGC/build-test_stream_2-Desktop_Qt_6_4_2_GCC_64bit-Debug/test_stream_2_autogen/timestamp	c47e1d9cd0e27da6
+1	7	1678195375747997372	/home/eurolink/QT6_QGC/QT6_QGC/build-test_stream_2-Desktop_Qt_6_4_2_GCC_64bit-Debug/test_stream_2_autogen/mocs_compilation.cpp	c47e1d9cd0e27da6

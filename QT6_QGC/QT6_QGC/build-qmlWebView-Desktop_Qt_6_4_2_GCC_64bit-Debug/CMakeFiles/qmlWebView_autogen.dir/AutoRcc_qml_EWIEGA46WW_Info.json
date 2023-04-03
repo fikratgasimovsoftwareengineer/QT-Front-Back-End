@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-qmlWebView-Desktop_Qt_6_4_2_GCC_64bit-Debug/qmlWebView_autogen",
+	"CMAKE_BINARY_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-qmlWebView-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-qmlWebView-Desktop_Qt_6_4_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/qmlWebView",
+	"CMAKE_SOURCE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/qmlWebView",
+	"INCLUDE_DIR" : "/home/eurolink/QT6_QGC/QT6_QGC/build-qmlWebView-Desktop_Qt_6_4_2_GCC_64bit-Debug/qmlWebView_autogen/include",
+	"INPUTS" : [ "/home/eurolink/QT6_QGC/QT6_QGC/qmlWebView/main.qml" ],
+	"LOCK_FILE" : "/home/eurolink/QT6_QGC/QT6_QGC/build-qmlWebView-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/qmlWebView_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/eurolink/Qt/6.4.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/eurolink/QT6_QGC/QT6_QGC/build-qmlWebView-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/qmlWebView_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/eurolink/QT6_QGC/QT6_QGC/qmlWebView/qml.qrc",
+	"VERBOSITY" : 0
+}

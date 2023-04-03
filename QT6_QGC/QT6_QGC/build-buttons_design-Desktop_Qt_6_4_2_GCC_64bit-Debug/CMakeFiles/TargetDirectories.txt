@@ -1,0 +1,9 @@
+/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/buttons_design.dir
+/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/buttons_design_autogen_timestamp_deps.dir
+/home/eurolink/QT6_QGC/QT6_QGC/build-buttons_design-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/buttons_design_autogen.dir
