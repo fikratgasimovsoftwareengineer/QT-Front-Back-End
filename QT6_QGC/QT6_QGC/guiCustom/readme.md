@@ -3,7 +3,7 @@
 ```
 Per lanciare questo software, bisogno ad aprire qt creator, piuo, entrare su progetto si chiama guiCustom
 
-![Mission Planner]("demo_1.png")
+![Mission Planner](demo_1.png)
 
 
 
