@@ -17,6 +17,8 @@ cameraStream::cameraStream(QWidget *parent)
 
     pause = new QPushButton("Pause");
 
+
+
     if (checkCameraAvailibility()){
 
         qDebug() <<"Camera Is available";
@@ -48,6 +50,7 @@ cameraStream::cameraStream(QWidget *parent)
 
 
         captureSession->setVideoOutput(viewfinder);
+
 
         QHBoxLayout *camLayout = new QHBoxLayout;
         camLayout->addWidget(viewfinder);
@@ -95,40 +98,37 @@ void cameraStream::startCamera()
 
 void cameraStream::captureFrame()
 {
-    if (!camera->isActive()){
-        qDebug() << "Camera is not active";
-        return;
-    }
-    QString name ="/home/fikrat/img" + QString::number(count) + ".jpg";
-    qDebug() << "Image Saved: in location " << name;
-    img->captureToFile(name);
 
-    if (img->error()){
-        qDebug() << "Image Capture Failed;" << img->errorString();
-    }else{
-        qDebug() << "Image Saved in Location" << name;
-         count ++;
-    }
+        QString name ="/home/fikrat/img" + QString::number(count) + ".jpg";
+        //qDebug() << "Image Saved: in location " << name;
+        img->captureToFile(name);
+
+        if (img->error()){
+            qDebug() << "Image Capture Failed;" << img->errorString();
+        }else{
+            qDebug() << "Image Saved in Location" << name;
+            count ++;
+        }
+
+
+
+
 
 
 }
 
 void cameraStream::pauseCam()
 {
-    if(camera->isActive()){
-        camera->stop();
-        //camera->
-    }
+    camera->stop();
     qDebug()<<"pause cam";
 
 }
 
 void cameraStream::stopCam()
 {
-    // if camera is  active = true
-    if (camera->isActive()){
-        camera->stop();
-    }
+
+
+    camera->stop();
     qDebug()<<"stop cam";
 
 

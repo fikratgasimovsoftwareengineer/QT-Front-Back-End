@@ -188,6 +188,7 @@ guiCustom_autogen/timestamp: \
 	/home/fikrat/Qt/6.2.4/gcc_64/include/QtGui/qwindowdefs.h \
 	/home/fikrat/Qt/6.2.4/gcc_64/include/QtMultimedia/QCamera \
 	/home/fikrat/Qt/6.2.4/gcc_64/include/QtMultimedia/QCameraDevice \
+	/home/fikrat/Qt/6.2.4/gcc_64/include/QtMultimedia/QCameraFormat \
 	/home/fikrat/Qt/6.2.4/gcc_64/include/QtMultimedia/QImageCapture \
 	/home/fikrat/Qt/6.2.4/gcc_64/include/QtMultimedia/QMediaCaptureSession \
 	/home/fikrat/Qt/6.2.4/gcc_64/include/QtMultimedia/QMediaDevices \

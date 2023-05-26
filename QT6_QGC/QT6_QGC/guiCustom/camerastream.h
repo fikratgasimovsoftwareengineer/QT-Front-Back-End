@@ -16,6 +16,9 @@
 #include <QMediaRecorder>
 #include <QVBoxLayout>
 #include <QPushButton>
+#include <QCameraFormat>
+
+
 class cameraStream : public QWidget
 {
     Q_OBJECT
@@ -31,6 +34,8 @@ public:
     QPushButton *capture;
     QPushButton *pause;
     QPushButton *stop;
+
+    QSize resolution() const;
 signals:
     void activeChanged(bool);
 
@@ -55,6 +60,7 @@ private:
     QCamera *camera;
 
     QImageCapture *img;
+
 
     QMediaCaptureSession *captureSession;
     bool isCapturingImage;
