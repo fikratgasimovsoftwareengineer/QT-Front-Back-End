@@ -25,6 +25,8 @@
 // include huddisplay
 #include "huddisplay.h"
 
+
+#include "camerastream.h"
 using namespace std;
 
 QT_BEGIN_NAMESPACE
@@ -40,16 +42,16 @@ public:
     ~Widget();
 
     void setColor();
-    void  connects();
+   // void  connects();
     string getText();
 
     void getRegistrationPage();
 
 
 public slots:
-    void clickButton_1();
+    /*void clickButton_1();
     void clickButton_2();
-    void clickButton_3();
+    void clickButton_3();*/
 
     // sign out
     void signOut();
@@ -82,6 +84,7 @@ private:
     droneTypes *types_drones_open;
     //droneTypes *types_drones_close;
 
+    cameraStream *stream;
 
 
 };

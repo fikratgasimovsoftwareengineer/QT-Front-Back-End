@@ -9,11 +9,11 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets)
-find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets WebEngineWidgets)
-set(QWT_LIBRARY_DIR /home/eurolink/qwt-6.2.0/lib/libqwt.so.6.2.0)
+find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets Multimedia MultimediaWidgets)
+find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets WebEngineWidgets Multimedia MultimediaWidgets)
+#set(QWT_LIBRARY_DIR /home/eurolink/qwt-6.2.0/lib/libqwt.so.6.2.0)
 
-set(QT_PLUGIN_PATH /usr/local/qwt-6.2.0/plugins/designer/libqwt_designer_plugin.so)
+#set(QT_PLUGIN_PATH /usr/local/qwt-6.2.0/plugins/designer/libqwt_designer_plugin.so)
 
 set(PROJECT_SOURCES
         main.cpp
@@ -46,7 +46,10 @@ set(PROJECT_SOURCES
         huddisplay.ui
         pippo.ui
 
+        camerastream.cpp # camera stream source
+        camerastream.h
         widget.ui
+
 
 )
 
@@ -75,7 +78,7 @@ endif()
 
 include_directories(/usr/local/qwt-6.2.0/include)
 
-target_link_libraries(guiCustom PRIVATE Qt${QT_VERSION_MAJOR}::Widgets ${QWT_LIBRARY_DIR} Qt${QT_VERSION_MAJOR}::WebEngineWidgets)
+target_link_libraries(guiCustom PRIVATE Qt${QT_VERSION_MAJOR}::Widgets ${QWT_LIBRARY_DIR} Qt${QT_VERSION_MAJOR}::WebEngineWidgets Qt${QT_VERSION_MAJOR}::Multimedia Qt${QT_VERSION_MAJOR}::MultimediaWidgets)
 
 set_target_properties(guiCustom PROPERTIES
     MACOSX_BUNDLE_GUI_IDENTIFIER my.example.com

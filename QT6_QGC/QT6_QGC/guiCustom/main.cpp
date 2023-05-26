@@ -6,10 +6,11 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
     Widget w;
-    hudDisplay hud;
-    //droneTypes d;
-    //w.getText();
+
     w.show();
+
+    //cameraStream camera;
+   // camera.show();
 
     //hud.show();
     return a.exec();

@@ -10,16 +10,11 @@ Widget::Widget(QWidget *parent)
     // ***** setcolors *****
     setColor();
 
-    QWebEngineView *view = new QWebEngineView(this);
 
-    view->load(QUrl::fromLocalFile(":/../../map/map.html"));
 
-    int tab_index = ui->tabWidget->addTab(view, "Map");
-    view->setVisible(true);
-    view->show();
 
     //  *****connection for video streaming *****
-    connects();
+    //connects();
 
     // ***** navugation var setting up! *****
     navigation_bar = new navbar(this);
@@ -49,6 +44,18 @@ Widget::Widget(QWidget *parent)
     //drone types
     types_drones_open = new droneTypes;
 
+    //stream camera pointerINIT
+    stream = new cameraStream(this);
+
+    ui->myVideo->addWidget(stream->viewfinder);
+    stream->viewfinder->show();
+
+    ui->buttonsLayout->addWidget(stream->start);
+    ui->buttonsLayout->addWidget(stream->stop);
+    ui->buttonsLayout->addWidget(stream->capture);
+    ui->buttonsLayout->addWidget(stream->pause);
+
+
     //***** create account !*****
     connect(ui->createAccuountPages, &QPushButton::clicked, this, &Widget::getRegistrationPage);
 
@@ -72,11 +79,13 @@ Widget::~Widget()
     delete types_drones_open;
     /*delete types_drones_close;*/
 
+    delete stream;
+
 
 }
 
 
-void Widget::clickButton_1()
+/*void Widget::clickButton_1()
 {
     qDebug() << "Start!";
 }
@@ -89,7 +98,7 @@ void Widget::clickButton_2()
 void Widget::clickButton_3()
 {
     qDebug() << "Third";
-}
+}*/
 
 void Widget::signOut()
 {
@@ -119,14 +128,14 @@ void Widget::navigateToPrevios()
 }
 
 
-void Widget::connects()
+/*void Widget::connects()
 {
 
     connect(ui->button_1, &QPushButton::clicked, this, &Widget::clickButton_1);
     connect(ui->button_2, &QPushButton::clicked, this, &Widget::clickButton_2);
     connect(ui->button_3, &QPushButton::clicked, this, &Widget::clickButton_3);
 
-}
+}*/
 // show resigtration page
 void Widget::getRegistrationPage()
 {

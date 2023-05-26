@@ -9,8 +9,8 @@
 #include <QPolygonF>
 #include <QGraphicsPolygonItem>
 #include <QGraphicsPolygonItem>
-#include <qwt/qwt_plot.h>
-#include <qwt/qwt.h>
+//#include <qwt/qwt_plot.h>
+//#include <qwt/qwt.h>
 
 namespace Ui {
 class hudDisplay;
@@ -33,7 +33,7 @@ private:
     QGraphicsScene *scene;
     QGraphicsView *view;
     QGraphicsPolygonItem *horizonItem;
-    QwtPlot *plot;
+    //QwtPlot *plot;
 
 
 

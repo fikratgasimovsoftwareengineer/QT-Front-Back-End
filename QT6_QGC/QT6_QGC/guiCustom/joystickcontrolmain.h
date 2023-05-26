@@ -30,9 +30,6 @@ protected:
 
 
 
-
-
-
     // QWidget interface
 /*protected:
     void keyPressEvent(QKeyEvent *event) override;*/

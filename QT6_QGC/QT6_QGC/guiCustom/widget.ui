@@ -21,27 +21,17 @@
    <string notr="true">background-color: qconicalgradient(cx:0.5, cy:0.5, angle:0, stop:0 rgba(0, 0, 0, 255), stop:1 rgba(255, 255, 255, 255));
 background-color: qconicalgradient(cx:0.968, cy:0.0681818, angle:0, stop:0 rgba(0, 0, 0, 255), stop:1 rgba(255, 255, 255, 255));</string>
   </property>
-  <widget class="Line" name="line">
-   <property name="geometry">
-    <rect>
-     <x>760</x>
-     <y>490</y>
-     <width>461</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="orientation">
-    <enum>Qt::Horizontal</enum>
-   </property>
-  </widget>
   <widget class="QStackedWidget" name="myVideo">
    <property name="geometry">
     <rect>
-     <x>750</x>
-     <y>110</y>
-     <width>491</width>
+     <x>690</x>
+     <y>20</y>
+     <width>561</width>
      <height>371</height>
     </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(114, 159, 207);</string>
    </property>
    <property name="currentIndex">
     <number>0</number>
@@ -86,45 +76,6 @@ background-color: qconicalgradient(cx:0.968, cy:0.0681818, angle:0, stop:0 rgba(
     </rect>
    </property>
    <layout class="QVBoxLayout" name="verticalLayout"/>
-  </widget>
-  <widget class="QPushButton" name="button_1">
-   <property name="geometry">
-    <rect>
-     <x>770</x>
-     <y>520</y>
-     <width>101</width>
-     <height>41</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>Start</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="button_2">
-   <property name="geometry">
-    <rect>
-     <x>930</x>
-     <y>520</y>
-     <width>101</width>
-     <height>41</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>Stop</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="button_3">
-   <property name="geometry">
-    <rect>
-     <x>1100</x>
-     <y>520</y>
-     <width>101</width>
-     <height>41</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>Pause</string>
-   </property>
   </widget>
   <widget class="QWidget" name="joystickwidget" native="true">
    <property name="geometry">
@@ -274,7 +225,7 @@ font: 16pt &quot;Ubuntu&quot;;</string>
   <widget class="QTabWidget" name="tabWidget">
    <property name="geometry">
     <rect>
-     <x>1330</x>
+     <x>1380</x>
      <y>10</y>
      <width>451</width>
      <height>771</height>
@@ -373,6 +324,17 @@ border-image: url(:/:/left.png);</string>
    <property name="text">
     <string/>
    </property>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>730</x>
+     <y>529</y>
+     <width>491</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="buttonsLayout"/>
   </widget>
  </widget>
  <resources>

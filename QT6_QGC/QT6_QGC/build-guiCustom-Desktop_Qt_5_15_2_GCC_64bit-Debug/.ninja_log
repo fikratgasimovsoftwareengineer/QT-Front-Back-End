@@ -1,0 +1,22 @@
+# ninja log v5
+1	417	1684763903781260486	guiCustom_autogen/timestamp	f94f41a5f68de1c4
+1	417	1684763903781260486	guiCustom_autogen/mocs_compilation.cpp	f94f41a5f68de1c4
+1	417	1684763903781260486	/home/fikrat/QT-Front-Back-End/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_5_15_2_GCC_64bit-Debug/guiCustom_autogen/timestamp	f94f41a5f68de1c4
+1	417	1684763903781260486	/home/fikrat/QT-Front-Back-End/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_5_15_2_GCC_64bit-Debug/guiCustom_autogen/mocs_compilation.cpp	f94f41a5f68de1c4
+417	421	1684763903789260642	guiCustom_autogen/EWIEGA46WW/qrc_compass.cpp	fd48815a50124863
+417	421	1684763903789260642	/home/fikrat/QT-Front-Back-End/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_5_15_2_GCC_64bit-Debug/guiCustom_autogen/EWIEGA46WW/qrc_compass.cpp	fd48815a50124863
+417	421	1684763903789260642	guiCustom_autogen/EWIEGA46WW/qrc_joystick.cpp	8996215c95a7c65
+417	421	1684763903789260642	/home/fikrat/QT-Front-Back-End/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_5_15_2_GCC_64bit-Debug/guiCustom_autogen/EWIEGA46WW/qrc_joystick.cpp	8996215c95a7c65
+417	435	1684763903801260876	guiCustom_autogen/EWIEGA46WW/qrc_navbar.cpp	1b5d623b272efff9
+417	435	1684763903801260876	/home/fikrat/QT-Front-Back-End/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_5_15_2_GCC_64bit-Debug/guiCustom_autogen/EWIEGA46WW/qrc_navbar.cpp	1b5d623b272efff9
+417	648	1684763904005264850	guiCustom_autogen/EWIEGA46WW/qrc_general.cpp	e7f641286725744d
+417	648	1684763904005264850	/home/fikrat/QT-Front-Back-End/QT6_QGC/QT6_QGC/build-guiCustom-Desktop_Qt_5_15_2_GCC_64bit-Debug/guiCustom_autogen/EWIEGA46WW/qrc_general.cpp	e7f641286725744d
+649	3582	1684763906949316017	CMakeFiles/guiCustom.dir/signinpage.cpp.o	2e46c2714cec286b
+649	3598	1684763906965316279	CMakeFiles/guiCustom.dir/dronetypes.cpp.o	79df838bc9a4a7f
+649	3706	1684763907073317971	CMakeFiles/guiCustom.dir/myprofregistration.cpp.o	13cf698c8b861073
+648	3717	1684763907081318093	CMakeFiles/guiCustom.dir/navbar.cpp.o	7cd4646a584b621b
+649	3933	1684763907301321458	CMakeFiles/guiCustom.dir/registration.cpp.o	753155be29dd6018
+649	3978	1684763907345322131	CMakeFiles/guiCustom.dir/signuppage.cpp.o	eb3c661eec0a62a3
+648	4345	1684763907709327698	CMakeFiles/guiCustom.dir/widget.cpp.o	e3f29731428ec9fc
+648	4384	1684763907749328310	CMakeFiles/guiCustom.dir/guiCustom_autogen/mocs_compilation.cpp.o	fb1d15c608251ffb
+648	4437	1684763907805329166	CMakeFiles/guiCustom.dir/main.cpp.o	d29b59924eb95c25

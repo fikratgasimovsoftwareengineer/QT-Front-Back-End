@@ -22,6 +22,5 @@
         <file>beluga.png</file>
         <file>drone_question.jpg</file>
         <file>qgc.png</file>
-        <file>../../../map/map.html</file>
     </qresource>
 </RCC>

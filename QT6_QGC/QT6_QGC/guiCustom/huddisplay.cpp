@@ -6,7 +6,7 @@ hudDisplay::hudDisplay(QWidget *parent) :
     ui(new Ui::hudDisplay)
 {
     ui->setupUi(this);
-    plot = new QwtPlot(ui->hud_view);
+    //plot = new QwtPlot(ui->hud_view);
 
    /* scene = new QGraphicsScene(this);
     view = ui->hud_view(scene);*/
